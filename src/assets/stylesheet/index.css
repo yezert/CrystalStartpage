@@ -1,0 +1,23 @@
+.flex-acenter {
+	width: 512px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.flex-center {
+	width: 512px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.scale-b {
+	scale: 3;
+}
+
+.w-512 {
+	width: 512px;
+}
